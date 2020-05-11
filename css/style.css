@@ -6,7 +6,7 @@
 body {
     padding-top: 70px;
 	color: #222;
-    font-family: 'EB Garamond', serif;
+    font-family: 'EB Garamond display', serif;
     font-size: 17px;
     line-height: 1.8 !important;
 }
@@ -16,7 +16,7 @@ html {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'EB Garamond', serif;
+	font-family: 'EB Garamond display', serif;
 	font-weight:200;
 	color: #222;
 }
