@@ -2,8 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 @import url(https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap);
-/* @import url(https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=EB+Garamond&display=swap); */
-@import url(https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=EB+Garamond&display=swap);
+/* @import url(https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap); */
 body {
     padding-top: 70px;
 	color: #222;
@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p{
-	font-family: 'Spectral', serif;
+	font-family: '=Cormorant Garamond', serif;
 	font-weight:300;
 }
 
