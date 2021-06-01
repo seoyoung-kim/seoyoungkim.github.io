@@ -7,7 +7,7 @@
 body {
     padding-top: 70px;
 	color: #222;
-    font-family: 'Spectral', serif;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     line-height: 1.8 !important;
 }
@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p{
-	font-family: '=Cormorant Garamond', serif;
+	font-family: 'Cormorant Garamond', serif;
 	font-weight:300;
 }
 
